@@ -11,7 +11,7 @@ function Intro() {
         <div className='introcontainer'>
             <div className='introleft'>
                 <div className='introcard'>
-                    <span style={{ position: 'absolute', left: 170,top:250 }}>Full Stack Web Developer</span>
+                    <span style={{ position: 'absolute', left: 170,top:270 }}>Full Stack Web Developer</span>
                     <h1 id='introname'>I'm Sajid Shaik</h1>
                     <button id='introbtn' onClick={handleRedirect}>Know more about me <sub><i class="bi bi-arrow-right"></i> </sub></button>
                 </div>
