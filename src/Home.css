@@ -1,0 +1,45 @@
+.inner-container {
+    margin: 50px 70px;
+    border: 1px solid white;
+}
+
+h2 {
+    position: absolute;
+    top: 300px;
+}
+
+.group-icons{
+    position: absolute;
+    top:500px;
+    left:300px;
+    font-size: 30px;
+}
+
+.home-icons{
+    margin: 10px;
+    color: lightcoral;
+    cursor: pointer;
+}
+
+#biopara {
+    margin-bottom: 40px;
+    line-height: 1.6;
+    text-align: left;
+    position: absolute;
+    left: 240px;
+    top: 360px;
+    font-size: 20px;
+    
+}
+
+.sub-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#myimage{
+    width:420px;
+    height: 520px;
+    border-radius: 50%;
+}

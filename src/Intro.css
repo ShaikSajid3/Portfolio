@@ -1,0 +1,38 @@
+.introcontainer{
+    display: flex;
+    color: black;
+    background-color: white;
+}
+
+.introleft {
+    width: 50%;
+    height: 99.9vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.introright{
+    width: 50%;
+    background: url(../public/programmer3.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.introcard{
+    border: none;
+    background-color: rgba(163, 245, 238, 0.6);
+    padding: 110px;
+    border-radius: 20px;
+}
+
+#introbtn{
+    border:none;
+    background-color: orange;
+    cursor: pointer;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#introname{
+    color: lightcoral;
+}
