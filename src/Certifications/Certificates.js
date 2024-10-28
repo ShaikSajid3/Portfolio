@@ -5,7 +5,7 @@ function Certificates() {
         <div className='certificate-container'>
             <h1 style={{ color: 'palegreen' }}>Certificates</h1>
             
-            <div className='certificate-sub-container row' style={{ marginLeft: 60 }}>
+            <div className='certificate-sub-container row' style={{ marginLeft: 50 }}>
 
                 <div className="card" style={{ margin: 30, width: '18rem' }}>
                     <img src="Assets/wiprojava.png" className="card-img-top" alt="cert1" />
