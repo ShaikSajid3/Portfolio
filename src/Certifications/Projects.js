@@ -4,7 +4,7 @@ function Projects() {
   return (
     <div className="project-container">
       <h1 style={{ color: 'palegreen',marginBottom:20 }}>Projects</h1>
-      <div className="project-inner-container row" style={{ marginLeft: '90px' }}>
+      <div className="project-inner-container row" style={{ marginLeft: '50px' }}>
         
         <div className="card" style={{ margin: '20px', width: '28rem' }}>
           <div className="card-body">
